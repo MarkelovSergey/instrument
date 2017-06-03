@@ -1,0 +1,120 @@
+/*
+Theme Name: Dandy
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right_to_Left_Language_Support
+
+*/
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.spaceLeft {
+	margin-left: 0;
+	margin-right: 0.5em;
+}
+
+.spaceRight {
+	margin-right: 0;
+	margin-left: 0.5em;
+}
+
+.main-navigation .spaceRight {
+	margin-right: 0.5em;
+	margin-left: 0;
+}
+
+.dandy-logo {
+	float: right;
+	margin-top: 5px;
+	padding-right: 30px;
+}
+
+.site-branding {
+    float: right;
+	padding-right: 30px;
+}
+
+.main-navigation {
+	float: left;
+	padding-left: 30px;
+}
+
+.main-navigation li {
+    float: right;
+}
+
+.menu-top-container {
+	float: right;
+}
+
+.menu-top-container ul li a{
+	float: right;
+}
+
+.SocialTopDandy {
+	float: left;
+	text-align: right;
+}
+
+.SocialBottomDandy {
+    float: left;
+    padding-top: 9px;
+    text-align: left;
+}
+	
+.site-info {
+    float: right;
+}
+
+.widget-area a, .widget-area a:visited, #footer-sidebar a {
+    text-align: right;
+}
+
+.dandyBreadcrumb ul li:not(:last-child):after {
+    content: none;
+}
+
+.dandyBreadcrumb ul li:not(:last-child):before {
+    content: "\f053";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #b4b4b4;
+    font-size: 9px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.dandyBreadcrumb ul li:first-child:after {
+    content: "\f015";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: #b4b4b4;
+    font-size: 15px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+	
+@media all and (max-width: 1024px) {
+	
+	.main-navigation ul li .indicator {
+		right: inherit;
+		left: 0;
+		border-left: 0;
+		border-right: 1px solid rgba(76, 76, 76,0.2);
+	}
+	.main-navigation ul ul, .main-navigation ul ul ul {
+		padding-right: 3%;
+		padding-left: 0;
+	}
+	
+}

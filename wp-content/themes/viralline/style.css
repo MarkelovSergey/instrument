@@ -1,0 +1,69 @@
+/*
+ Theme Name:   Viralline
+ Theme URI:    http://www.themehunk.com/product/viralline-lite-free-blogging-theme/
+ Description:   Viralline is gracefull and beautiful WordPress theme. It has live customizer to check changes instantly and lead generation plugin integrated. Viralline theme supports five widget area (two in the sidebar, three in the footer). Viralline supports sidebar on home page also. This theme is specially designed for personal, fashion, restaurant, foodie, travel blog sites.
+ Author:       ThemeHunk Team
+ Author URI:   http://www.themehunk.com/
+ Template:     glowline
+ Version:      1.0.5
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:one-column, two-columns, grid-layout, right-sidebar, custom-colors, custom-menu, theme-options, sticky-post, translation-ready, footer-widgets, blog  
+ Text Domain: viralline
+*/
+::selection {
+    background: #3498db!important;
+}
+.post-category a, .post-share i.fa:hover, .footer-copyright .social-icon ul li a:hover, .header-bottom .social-icon ul li a:hover, .content .post-content .read-more a, .slider-post-content .read-more-slider a, a.more-link, ul li a:hover, #commentform #commentSubmit, ol.commentlist li .reply a, .th-widget-recent-post .th-recent-post h5 a:hover, .widget .twitter-user a, .standard-layout .format-link h2, .format-quote blockquote p:before, .widget .tagcloud a:hover, .content .post-content .description p a, .page-description p a, .multipage-links span, .content .navigation.post-navigation .nav-links a:hover, .content, #searchform .icon-search:before, .content .post .post-meta .post-author a:hover, header.smaller .header .logo h1 a, .main-heading .main-logo h1 a{
+color: #3498db!important;
+}
+.main-heading .slider{
+    background-color: #3498db;
+}
+.slider-post-content-wrapper h2{
+color:#fff;
+}
+.slider-post-date span a, .slider-post-category span a, .slider-post-content-wrapper p, .slider-post-content .read-more-slider a, .owl-controls .owl-next:before, .owl-controls .owl-prev:before,ul.slider-post-social.social-icon li.share-text, .slider-post-content-wrapper .social-icon i.fa, .pagination .nav-links .current{
+color:#fefefe!important;
+}
+
+.slider-post-content .read-more-slider a, .slider-post-category span, .widget .tagcloud a{
+border-color:#fefefe!important;
+
+}
+.widgettitle {
+    background: #fff;
+    border: 1px solid #f2f2f2;
+}
+.content .standard-layout .post {
+     background: #fff;
+    padding: 20px;
+}
+.standard-bottom-meta{
+border-bottom:none;
+}
+body.home {
+    background: #f2f2f2;
+}
+.home .header-wrapper {
+    background-color: #fff;
+}
+#move-to-top {
+       padding: 7px 10px;   
+    border-radius: 50%;
+	background-color: #3498db!important;
+}
+.post .post-content .post-category, .post .post-category, .single-meta .post-category, .archive-title, .page-title, li.sl-related-thumbnail h3, .multipage-links span, #searchform #s, #searchform #s:focus, #searchform #s:hover, #searchform .icon-search:hover + #s{
+border-bottom: 1px solid #3498db!important;
+}
+#move-to-top, .slider-post-content .read-more-slider a:hover, .widget .search-submit:hover, .search .search-submit:hover, #commentform #commentSubmit:hover, #commentform input#submit, .tagcloud a, .mc4wp-form input[type=submit], input[type=submit]:hover, .pagination .nav-links a:hover, .pagination .nav-links span:hover, .pagination .nav-links .current {
+    background: #3498db!important;
+    border: 1px solid #3498db!important;
+	}
+		.pagination .nav-links .prev, .pagination .nav-links .page-numbers{
+	color:#3498db;
+	border: 1px solid #3498db!important;
+	}
+.page blockquote{
+border-color:#3498db;
+}

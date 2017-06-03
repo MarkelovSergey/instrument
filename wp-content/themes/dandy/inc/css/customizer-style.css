@@ -1,0 +1,10 @@
+.customize-control input[type=checkbox],
+.customize-control input[type=tel], 
+.customize-control input[type=url], 
+.customize-control input[type=text], 
+.customize-control input[type=password], 
+.customize-control input[type=email], 
+.customize-control input[type=number], 
+.customize-control input[type=search]{
+	border-radius: 10px;
+}

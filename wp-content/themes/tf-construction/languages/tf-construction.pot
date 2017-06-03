@@ -1,0 +1,553 @@
+# Copyright (C) 2016 ThemeFarmer
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: tf-construction 1.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-18 15:09+0530\n"
+"PO-Revision-Date: 2016-05-18 15:09+0530\n"
+"Last-Translator: themefarmer.com \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:30
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: 404.php:42
+msgid "Most Used Categories"
+msgstr ""
+
+#: 404.php:60
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: archive.php:41 index.php:46 search.php:34
+msgid "Previous Posts"
+msgstr ""
+
+#: archive.php:42 index.php:47 search.php:35
+msgid "Next Posts"
+msgstr ""
+
+#: comment-function.php:17
+msgid "Reply"
+msgstr ""
+
+#: comment-function.php:43
+msgid "at"
+msgstr ""
+
+#: comment-function.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:8
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:8 inc/template-tags.php:83
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:12
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:14
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:16
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:38
+msgid "Logged in as "
+msgstr ""
+
+#: comments.php:38
+msgid " Log out?"
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:41
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:44
+msgid "Leave a Reply"
+msgstr ""
+
+#: footer.php:20 functions.php:123
+msgid "Footer Widget Area"
+msgstr ""
+
+#: footer.php:22 functions.php:125
+msgid "footer widget area"
+msgstr ""
+
+#: footer.php:55
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:55
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:57
+#, php-format
+msgid "Theme by %1$s."
+msgstr ""
+
+#: footer.php:63
+msgid "Go Top"
+msgstr ""
+
+#: functions.php:53
+msgid "Primary"
+msgstr ""
+
+#: functions.php:113 sidebar.php:19
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:115 sidebar.php:21
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: header.php:19
+msgid "Skip to content"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4 searchform.php:5
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:5
+msgid "Search "
+msgstr ""
+
+#: single.php:29
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:30
+msgid "Next Post"
+msgstr ""
+
+#: inc/tf-construction-breadcrumbs.php:29
+#: inc/tf-construction-breadcrumbs.php:38
+#: inc/tf-construction-breadcrumbs.php:41
+#: inc/tf-construction-breadcrumbs.php:114
+#: inc/tf-construction-breadcrumbs.php:125
+#: inc/tf-construction-breadcrumbs.php:128
+#: inc/tf-construction-functions.php:37
+msgid "Home"
+msgstr ""
+
+#: inc/tf-construction-breadcrumbs.php:44
+#: inc/tf-construction-breadcrumbs.php:131
+msgid "Archive category"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:12
+msgid "UPGRADE  TO PRO "
+msgstr ""
+
+#: inc/tf-construction-customizer.php:25
+msgid "ADD REVIEW"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:38
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:41
+msgid ""
+"The Pro Version gives you more opportunities to enhance your site and "
+"business. In order to create effective online presence one have to showcase "
+"their wide range of products, have to use contact us enquiry form, have to "
+"make effective about us page, have to introduce team members, etc etc . The "
+"pro version will give it all. Buy the pro version and give us a chance to "
+"serve you better. "
+msgstr ""
+
+#: inc/tf-construction-customizer.php:55
+#: inc/tf-construction-customizer.php:125
+msgid "Add More Services Get Pro"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:68
+#: inc/tf-construction-customizer.php:138
+msgid "Add More Slides Get Pro"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:78
+msgid "UPGRADE  TO PRO VERSION"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:89
+#: inc/tf-construction-customizer.php:100
+#: inc/tf-construction-customizer.php:111
+msgid "Discover TF Construction Pro"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:186
+msgid "Theme Options"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:187
+msgid "Here you can customize theme data"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:195
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:215
+msgid "Open social links in new tab"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:234
+msgid "Facebook Page URL"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:255
+msgid "Google Page URL"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:273
+msgid "Youtube Page URL"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:290
+msgid "Twitter Page URL"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:307
+#: inc/tf-construction-customizer.php:342
+msgid "Linkedin Page URL"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:325
+msgid "Email"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:350
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:371
+msgid "Hide Home Slider "
+msgstr ""
+
+#: inc/tf-construction-customizer.php:374
+msgid "Slider One Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:385
+msgid "Upload Slider Image One"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:393
+#: inc/tf-construction-customizer.php:450
+#: inc/tf-construction-customizer.php:503 inc/tf-construction-variables.php:18
+#: inc/tf-construction-variables.php:21 inc/tf-construction-variables.php:24
+msgid "Awesome Business Theme"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:405
+#: inc/tf-construction-customizer.php:462
+#: inc/tf-construction-customizer.php:515
+#: inc/tf-construction-customizer.php:757
+#: inc/tf-construction-customizer.php:799
+msgid "Heading"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:413
+#: inc/tf-construction-customizer.php:470
+#: inc/tf-construction-customizer.php:522 inc/tf-construction-variables.php:19
+#: inc/tf-construction-variables.php:22 inc/tf-construction-variables.php:25
+msgid "Why TF Construction. free support and features. 100 Percent Quality"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:424
+#: inc/tf-construction-customizer.php:481
+#: inc/tf-construction-customizer.php:533
+#: inc/tf-construction-customizer.php:655
+#: inc/tf-construction-customizer.php:693
+#: inc/tf-construction-customizer.php:729
+#: inc/tf-construction-customizer.php:773
+#: inc/tf-construction-customizer.php:815
+msgid "Description"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:430
+msgid "Slider Two Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:441
+msgid "Upload Slider Image Two"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:485
+msgid "Slider Three Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:496
+msgid "Upload Slider Image Three"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:536
+msgid "Slider Button"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:540 inc/tf-construction-variables.php:26
+msgid "Click To Begin"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:551
+msgid "Button Text"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:568
+msgid "Button Link"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:583
+msgid "Services Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:591 inc/tf-construction-variables.php:29
+msgid "Awesome Services"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:604
+msgid "Title Text"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:609 inc/tf-construction-variables.php:30
+msgid ""
+"We are a group of passionate designers and developers who really love to "
+"create awesome WordPress themes & support"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:620
+msgid "Description Text"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:623
+msgid "Services One"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:627 inc/tf-construction-variables.php:31
+msgid "Responsive Design"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:639
+#: inc/tf-construction-customizer.php:677
+#: inc/tf-construction-customizer.php:713
+msgid "Title"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:644
+#: inc/tf-construction-customizer.php:682
+#: inc/tf-construction-customizer.php:718
+#: inc/tf-construction-customizer.php:746
+#: inc/tf-construction-customizer.php:762 inc/tf-construction-variables.php:32
+#: inc/tf-construction-variables.php:34 inc/tf-construction-variables.php:36
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: inc/tf-construction-customizer.php:661
+msgid "Services Two"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:665 inc/tf-construction-variables.php:33
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:697
+msgid "Services Three"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:701 inc/tf-construction-variables.php:35
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:738
+msgid "Latest News Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:780
+msgid "Clients Settings"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:788 inc/tf-construction-variables.php:41
+msgid "Our Clients"
+msgstr ""
+
+#: inc/tf-construction-customizer.php:804 inc/tf-construction-variables.php:42
+msgid "We have awesome client list"
+msgstr ""
+
+#: inc/tf-construction-variables.php:38
+msgid "Latest News"
+msgstr ""
+
+#: inc/tf-construction-variables.php:39
+msgid "Be updated with latest news from TF Construction"
+msgstr ""
+
+#: inc/template-tags.php:19
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:21
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:23
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:25
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: inc/template-tags.php:31
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgid "Search Results for : %s"
+msgstr ""
+
+#: inc/template-tags.php:39
+msgid "Error 404  : Page Not Found"
+msgstr ""
+
+#: inc/template-tags.php:76
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:83
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:88
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: inc/template-tags.php:97 template-parts/content-page.php:50
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-home.php:20
+msgid "Com"
+msgstr ""
+
+#: template-parts/content-home.php:34
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-index.php:48 template-parts/content-page.php:39
+#: template-parts/content-search.php:48 template-parts/content-single.php:63
+#: template-parts/content.php:48
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-index.php:55 template-parts/content-search.php:55
+#: template-parts/content.php:55
+msgid "READ MORE"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:58
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
